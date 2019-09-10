@@ -1,0 +1,8 @@
+INICIO
+Leer num1 =5 y num2 = 10
+
+PARA (contador = num1 MIENTRAS contador <= num2 AUMENTA contador++){
+    Escribir contador
+}
+
+FIN
